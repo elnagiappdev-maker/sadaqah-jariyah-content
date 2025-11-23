@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "lastUpdated": "2025-11-23T00:00:00Z",
+  "data": [
+    {
+      "id": "s001",
+      "number": 1,
+      "nameAr": "الفاتحة",
+      "nameEn": "Al-Fatiha",
+      "reciter": "Mishary Rashid Alafasy",
+      "audioUrl": "https://example.com/quran/001.mp3",
+      "durationSec": 70,
+      "tags": ["quran"]
+    },
+    {
+      "id": "s002",
+      "number": 2,
+      "nameAr": "البقرة",
+      "nameEn": "Al-Baqarah",
+      "reciter": "Mishary Rashid Alafasy",
+      "audioUrl": "https://example.com/quran/002.mp3",
+      "tags": ["quran"]
+    }
+  ]
+}
